@@ -1,0 +1,7 @@
+function [ rgb ] = readImageToRGB( filename )
+%%
+%   读取图像，并表示为rgb
+
+
+end
+
